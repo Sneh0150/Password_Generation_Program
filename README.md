@@ -16,7 +16,7 @@ Generate the password in sequence. If the user wants
 3 numbers
 then the password might look like this:
 
-fgdx$*924
+#fgdx$*924
 You can see that all the letters are together. All the symbols are together and all the numbers follow each other as well. Try to solve this problem first.
 
 Hard Version (Step 2)
